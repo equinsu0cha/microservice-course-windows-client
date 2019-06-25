@@ -1,0 +1,15 @@
+C:\Users\leand\source\repos\APILegacyWorkStationMngmt\WMIDataCollector\bin\Release\netcoreapp2.2\WMIDataCollector.dll.config
+C:\Users\leand\source\repos\APILegacyWorkStationMngmt\WMIDataCollector\bin\Release\netcoreapp2.2\WMIDataCollector.deps.json
+C:\Users\leand\source\repos\APILegacyWorkStationMngmt\WMIDataCollector\bin\Release\netcoreapp2.2\WMIDataCollector.runtimeconfig.json
+C:\Users\leand\source\repos\APILegacyWorkStationMngmt\WMIDataCollector\bin\Release\netcoreapp2.2\WMIDataCollector.runtimeconfig.dev.json
+C:\Users\leand\source\repos\APILegacyWorkStationMngmt\WMIDataCollector\bin\Release\netcoreapp2.2\WMIDataCollector.dll
+C:\Users\leand\source\repos\APILegacyWorkStationMngmt\WMIDataCollector\bin\Release\netcoreapp2.2\WMIDataCollector.pdb
+C:\Users\leand\source\repos\APILegacyWorkStationMngmt\WMIDataCollector\bin\Release\netcoreapp2.2\Utils.dll
+C:\Users\leand\source\repos\APILegacyWorkStationMngmt\WMIDataCollector\bin\Release\netcoreapp2.2\Utils.pdb
+C:\Users\leand\source\repos\APILegacyWorkStationMngmt\WMIDataCollector\obj\Release\netcoreapp2.2\WMIDataCollector.csprojAssemblyReference.cache
+C:\Users\leand\source\repos\APILegacyWorkStationMngmt\WMIDataCollector\obj\Release\netcoreapp2.2\WMIDataCollector.csproj.CoreCompileInputs.cache
+C:\Users\leand\source\repos\APILegacyWorkStationMngmt\WMIDataCollector\obj\Release\netcoreapp2.2\WMIDataCollector.AssemblyInfoInputs.cache
+C:\Users\leand\source\repos\APILegacyWorkStationMngmt\WMIDataCollector\obj\Release\netcoreapp2.2\WMIDataCollector.AssemblyInfo.cs
+C:\Users\leand\source\repos\APILegacyWorkStationMngmt\WMIDataCollector\obj\Release\netcoreapp2.2\WMIDataCollector.csproj.CopyComplete
+C:\Users\leand\source\repos\APILegacyWorkStationMngmt\WMIDataCollector\obj\Release\netcoreapp2.2\WMIDataCollector.dll
+C:\Users\leand\source\repos\APILegacyWorkStationMngmt\WMIDataCollector\obj\Release\netcoreapp2.2\WMIDataCollector.pdb

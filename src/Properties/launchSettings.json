@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WMIDataCollector": {
+      "commandName": "Project",
+      "commandLineArgs": "A7-4F-46-72-FF-8A"
+    }
+  }
+}

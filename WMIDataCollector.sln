@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WMIDataCollector", "src\WMIDataCollector.csproj", "{97093DDA-93EF-47CE-8152-97AEA21E755D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97093DDA-93EF-47CE-8152-97AEA21E755D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97093DDA-93EF-47CE-8152-97AEA21E755D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97093DDA-93EF-47CE-8152-97AEA21E755D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97093DDA-93EF-47CE-8152-97AEA21E755D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30513656-E750-4907-B9B4-086A5B2C8C2A}
+	EndGlobalSection
+EndGlobal

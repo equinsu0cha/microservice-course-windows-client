@@ -1,0 +1,75 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.2": [
+      "D:\\Pessoal\\__APILegacyWorkStationMngmt\\WindowsClient\\Utils\\Utils.csproj"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\leandro.fribeiro\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Pessoal\\__APILegacyWorkStationMngmt\\WindowsClient\\src\\WMIDataCollector.csproj",
+      "projectName": "WMIDataCollector",
+      "projectPath": "D:\\Pessoal\\__APILegacyWorkStationMngmt\\WindowsClient\\src\\WMIDataCollector.csproj",
+      "packagesPath": "C:\\Users\\leandro.fribeiro\\.nuget\\packages\\",
+      "outputPath": "D:\\Pessoal\\__APILegacyWorkStationMngmt\\WindowsClient\\src\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\leandro.fribeiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.2"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "projectReferences": {
+            "D:\\Pessoal\\__APILegacyWorkStationMngmt\\WindowsClient\\Utils\\Utils.csproj": {
+              "projectPath": "D:\\Pessoal\\__APILegacyWorkStationMngmt\\WindowsClient\\Utils\\Utils.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\Pessoal\\__APILegacyWorkStationMngmt\\WindowsClient\\Utils\\Utils.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\Pessoal\\__APILegacyWorkStationMngmt\\WindowsClient\\Utils\\Utils.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.2"
+      ]
+    }
+  ]
+}
