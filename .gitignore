@@ -9,3 +9,16 @@ src/obj/Debug/netcoreapp2.2/WMIDataCollector.csproj.CoreCompileInputs.cache
 .vs/WMIDataCollector/v15/.suo
 src/obj/Debug/netcoreapp2.2/WMIDataCollector.assets.cache
 src/obj/Debug/netcoreapp2.2/WMIDataCollector.csproj.CoreCompileInputs.cache
+src/obj/WMIDataCollector.csproj.nuget.g.targets
+src/obj/WMIDataCollector.csproj.nuget.g.props
+src/obj/WMIDataCollector.csproj.nuget.cache
+src/obj/project.assets.json
+src/obj/Debug/netcoreapp2.2/WMIDataCollector.pdb
+src/obj/Debug/netcoreapp2.2/WMIDataCollector.dll
+src/obj/Debug/netcoreapp2.2/WMIDataCollector.csproj.FileListAbsolute.txt
+src/obj/Debug/netcoreapp2.2/WMIDataCollector.csproj.CoreCompileInputs.cache
+src/obj/Debug/netcoreapp2.2/WMIDataCollector.assets.cache
+src/bin/Debug/netcoreapp2.2/WMIDataCollector.pdb
+src/bin/Debug/netcoreapp2.2/WMIDataCollector.dll
+src/bin/Debug/netcoreapp2.2/WMIDataCollector.deps.json
+.vs/WMIDataCollector/v15/.suo
