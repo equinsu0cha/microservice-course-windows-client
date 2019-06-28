@@ -22,3 +22,5 @@ src/bin/Debug/netcoreapp2.2/WMIDataCollector.pdb
 src/bin/Debug/netcoreapp2.2/WMIDataCollector.dll
 src/bin/Debug/netcoreapp2.2/WMIDataCollector.deps.json
 .vs/WMIDataCollector/v15/.suo
+src/obj/Debug/netcoreapp2.2/WMIDataCollector.csproj.CoreCompileInputs.cache
+.vs/WMIDataCollector/v15/.suo
