@@ -44,3 +44,4 @@ src/obj/project.assets.json
 src/obj/WMIDataCollector.csproj.nuget.cache
 src/obj/WMIDataCollector.csproj.nuget.g.props
 src/obj/WMIDataCollector.csproj.nuget.g.targets
+src/obj/Debug/netcoreapp2.2/WMIDataCollector.csproj.CoreCompileInputs.cache
